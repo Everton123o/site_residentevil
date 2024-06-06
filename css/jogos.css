@@ -1,0 +1,46 @@
+* {
+	padding: 0;
+	margin: 0;
+
+}
+
+body {
+	background-image: url(/imagens/Fotosjogos/fundo.webp);
+
+}
+
+#box1 {
+	height: 2800px;
+	width: 90%;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: white;
+}
+
+#box1 p{
+	margin-left: 200px;
+	margin-right: 230px ;
+	margin-top: 70px;
+	font-family: fantasy;
+}
+
+h1, h2, h3{
+	text-align: center;
+    color: black;
+    margin-top: 40px;
+    font-family: fantasy;
+	font-size: 27px;
+}
+
+
+
+#img1, #img2, #img3, #img4 {
+	margin-left: 200px;
+	margin-top: 50px;
+}
+
+
+
+#fundoimg{
+	z-index: -100;
+}
