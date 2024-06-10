@@ -69,17 +69,17 @@ h1 {
 }
 #img1{
     margin: 20px;
-    margin-left: 100px;
+    padding-left: 100px;
 }
 
 #img2{
 margin: 20px;
-margin-left: 100px;
+padding-left: 100px;
 }
 
 #img3{
 margin: 20px;
-margin-left: 100px;
+padding-left: 100px;
 }    
 
 p {
