@@ -68,6 +68,11 @@ h1 {
     font-family: fantasy
 }
 
+#img1, #img2, #img3 {
+    margin: 20px;
+    margin-left: 100px;
+}
+
 p {
     color: aliceblue;
     font-family: Georgia, serif;
