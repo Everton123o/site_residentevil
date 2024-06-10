@@ -67,11 +67,20 @@ h1 {
     margin-top: 20px;
     font-family: fantasy
 }
-
-#img1, #img2, #img3 {
+#img1{
     margin: 20px;
     margin-left: 100px;
 }
+
+#img2{
+margin: 20px;
+margin-left: 100px;
+}
+
+#img3{
+margin: 20px;
+margin-left: 100px;
+}    
 
 p {
     color: aliceblue;
